@@ -7,6 +7,7 @@
 # 課程筆記區 <br>
 # 作業連結區 <br>
 [HW1](https://colab.research.google.com/drive/1USLbGhzCXUkxYOe0bixRL3V0tkyYj0Yi#scrollTo=v3Mz4D2_qKLx">https://colab.research.google.com/drive/1USLbGhzCXUkxYOe0bixRL3V0tkyYj0Yi#scrollTo=v3Mz4D2_qKLx")
-<p>國家快樂排名與所需生活費排名分析</p>
+<br>
+[HW2](https://github.com/Ayden0nnn/Programming-Language/blob/main/Programming_Language_HW2.ipynb)
 # 專題連結區 <br>
 
