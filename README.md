@@ -12,7 +12,8 @@
 <br>
 [HW3](https://github.com/Ayden0nnn/Programming-Language/blob/main/Programming_Language_HW3.ipynb)
 <br>
-[HW4]([https://github.com/Ayden0nnn/Programming-Language/blob/main/Programming_Language_HW3.ipynb](https://medium.com/@i38554928/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-hw4%E6%96%87%E5%AD%97%E9%9B%B2-8f2492c2a415)https://medium.com/@i38554928/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-hw4%E6%96%87%E5%AD%97%E9%9B%B2-8f2492c2a415)
+[HW4](https://medium.com/@i38554928/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-hw4%E6%96%87%E5%AD%97%E9%9B%B2-8f2492c2a415?source=friends_link&sk=6ecde8681b9c47f90375377250441931)
+<br>
 
 
 
