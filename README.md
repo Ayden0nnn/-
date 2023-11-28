@@ -18,4 +18,4 @@
 
 
 # 專題連結區 <br>
-[提案](https://docs.google.com/presentation/d/1BqfsqzNy1HY9DEMKgU6y1YWBrk5BLxiNh3C-OywW3Mg/edit?usp=sharing)
+[提案](https://youtu.be/itbQ6A5iOaU)
